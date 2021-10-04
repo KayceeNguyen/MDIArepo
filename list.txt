@@ -2,3 +2,9 @@ Groceries
 Bread
 Butter
 Milk
+school supplies
+pen
+papper
+glue
+notebooks
+markers
